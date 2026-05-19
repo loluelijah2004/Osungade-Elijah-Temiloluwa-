@@ -25,8 +25,6 @@ Research Internship — KAUST, Saudi Arabia (applied)
 Project: "Predicting Bacterial AMR Phenotypes from Genomic Biomarkers"
         ↓
 MSc Molecular Genetics — University of Toronto, Canada (planned)
-        ↓
-AMR Diagnostics Company (long-term goal)
 ```
 
 ---
